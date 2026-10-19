@@ -1,17 +1,21 @@
 # HavenCloud
 
-> [!IMPORTANT]
-> **栖影 · 限时开放邀请注册**
->
-> 🌐 **[访问栖影官网](https://hdhaven.com/)**　｜　💬 **[加入 TG 交流群](https://t.me/HDHavenChat)**
-
 面向 NAS 用户的影视资源助手，把找片、订阅追更、网盘转存和 Emby 媒体整理集中到一个网页。
 
 **本仓库只提供项目介绍和使用教程，不公开应用源码。**
 
 [部署与使用](guide.md) · [Docker Hub](https://hub.docker.com/r/tang0225/havencloud) · [更新记录](CHANGELOG.md)
 
-## 主要功能
+## 栖影资源平台
+
+栖影是 HavenCloud 支持的资源来源之一，可配合本工具进行资源搜索与解锁。
+
+> [!TIP]
+> **栖影限时开放邀请注册**
+>
+> 🌐 **[栖影官网](https://hdhaven.com/)**　｜　💬 **[栖影 TG 交流群](https://t.me/HDHavenChat)**
+
+## HavenCloud 主要功能
 
 - **发现与搜索**：影视海报墙，支持栖影、TG 公开频道、聚影聚合；可按来源、网盘、分辨率与季集筛选。
 - **订阅追剧**：按规则检查更新，支持积分预算、自动解锁、转存和通知。
@@ -48,4 +52,3 @@
 使用本仓库的 [docker-compose.yml](docker-compose.yml) 启动，首次登录填写联系方式申请授权，批准后自动激活，无需输入激活码。完整步骤见 [简明教程](guide.md)。
 
 应用需要授权；资源站点积分与网盘权限由对应服务决定。反馈问题请先隐藏密码、Cookie、Token 和授权信息。
-
