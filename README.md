@@ -43,3 +43,5 @@
 使用本仓库的 [docker-compose.yml](docker-compose.yml) 启动，首次登录填写联系方式申请授权，批准后自动激活，无需输入激活码。完整步骤见 [简明教程](guide.md)。
 
 应用需要授权；资源站点积分与网盘权限由对应服务决定。反馈问题请先隐藏密码、Cookie、Token 和授权信息。
+
+栖影网站链接：https://hdhaven.com/  TG群：https://t.me/HDHavenChat  限时开放邀请注册
