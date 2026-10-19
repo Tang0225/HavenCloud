@@ -1,5 +1,10 @@
 # HavenCloud
 
+> [!IMPORTANT]
+> **栖影 · 限时开放邀请注册**
+>
+> 🌐 **[访问栖影官网](https://hdhaven.com/)**　｜　💬 **[加入 TG 交流群](https://t.me/HDHavenChat)**
+
 面向 NAS 用户的影视资源助手，把找片、订阅追更、网盘转存和 Emby 媒体整理集中到一个网页。
 
 **本仓库只提供项目介绍和使用教程，不公开应用源码。**
@@ -44,4 +49,3 @@
 
 应用需要授权；资源站点积分与网盘权限由对应服务决定。反馈问题请先隐藏密码、Cookie、Token 和授权信息。
 
-栖影网站链接：https://hdhaven.com/  TG群：https://t.me/HDHavenChat  限时开放邀请注册
