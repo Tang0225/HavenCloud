@@ -1,0 +1,21 @@
+# Documentation only. Never commit application files or live data.
+data/
+src/
+tests/
+tools/
+server/
+workers/
+build/
+.venv/
+node_modules/
+.env
+.env.*
+*.py
+*.pyc
+*.pyd
+*.so
+*.db*
+*.sqlite*
+*.log
+*.pem
+*.key
